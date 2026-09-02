@@ -3,7 +3,7 @@
 AI/ML & Data Science Graduate
 📍 Bengaluru, India
 
-🎯 What I'm Working On
+🎯 I'm Working On
 • Fraud Detection System
 • Sales Analytics & Forecasting Dashboard
 

@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @PavitranBhat
-- 👀 I’m interested in coding and hackathons
-- 🌱 I’m currently learning DS in CS
-- 💞️ I’m looking to collaborate on the unconventional connections.
-- 📫 How to reach me @pavitranbhat232003@gmail.com
-- 😄 Pronouns: .Pavii
-- ⚡ Fun fact: ..Survival of the fittest.
+👋 Hi, I'm Pavitra Bhat
 
-<!---
-PavitranBhat/PavitranBhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI/ML & Data Science Graduate
+📍 Bengaluru, India
+
+🎯 What I'm Working On
+• Fraud Detection System
+• Sales Analytics & Forecasting Dashboard
+
+🛠️ Technical Skills
+Python | SQL | Pandas | NumPy | Scikit-learn
+Power BI | Matplotlib | Seaborn | Git | Streamlit
+CNN | ResNet50 | NLP
+
+📌 Featured Projects
+• Intelligent Job Recommendation System
+• Customer Churn & CLV Analysis
+• Fraud Detection System
+• Sales Analytics & Forecasting Dashboard
+
+🤝 Connect With Me : pavitranbhat232003@gmail.com
